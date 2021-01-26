@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Trabajo_Final.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Trabajo_Final.dir/objects.a @CMakeFiles\Trabajo_Final.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Trabajo_Final.dir/objects.a -Wl,--no-whole-archive  -o binary\Trabajo_Final.exe -Wl,--out-implib,libTrabajo_Final.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Trabajo_Final.dir\linklibs.rsp

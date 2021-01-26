@@ -1,0 +1,3 @@
+C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/Trabajo_Final.dir
+C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gonde/Documents/GitHub/Trabajo-IG-final/Trabajo_Final/cmake-build-debug/CMakeFiles/rebuild_cache.dir
